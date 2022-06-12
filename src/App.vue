@@ -4,7 +4,9 @@ import DefaultLayout from './layouts/DefaultLayout.vue';
 
 <template>
   <DefaultLayout>
-    <h1 class="text-white">Habit Tracker</h1>
+    <div class="w-full text-center">
+      <h1 class="text-white">Habit Tracker</h1>
+    </div>
   </DefaultLayout>
 </template>
 
